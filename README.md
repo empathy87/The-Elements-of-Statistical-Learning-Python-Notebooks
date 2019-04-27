@@ -44,3 +44,10 @@ Comparing relative change in bone mineral density for males and females with:
 Phonemes speech recognition with:
 1. Logistic regression
 2. Reduced flexibility logistic regression
+### [examples/Galaxy.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Galaxy.ipynb)
+Analysing radial velocity of galaxy NGC7531 with:
+1. Local regression in multidimentional space
+### [examples/Ozone.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Ozone.ipynb)
+Analysing the factors influencing ozone concentration with:
+1. Local regression
+2. Trellis plot
