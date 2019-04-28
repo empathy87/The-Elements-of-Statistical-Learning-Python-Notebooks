@@ -10,7 +10,7 @@ Classifying the points from a gaussian mixture using linear regression, nearest-
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/mixture.png)
 ### [examples/Prostate Cancer.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Prostate%20Cancer.ipynb)
 
-Predicting prostate specific antigen using ordinary and ridge/lasso regularized least squares, principal components regression, partial least squares and best subset regression. The parameters are selected by K-folds cross-validation.
+Predicting prostate specific antigen using ordinary least squares, ridge/lasso regularized linear regression, principal components regression, partial least squares and best subset regression. Model parameters are selected by K-folds cross-validation.
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/cancer.png)
 ### [examples/South African Heart Disease.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/South%20African%20Heart%20Disease.ipynb)
 Understanding the risk factors by:
