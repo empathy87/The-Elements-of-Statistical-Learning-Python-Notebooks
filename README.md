@@ -6,7 +6,7 @@ Reproducing examples from the "The Elements of Statistical Learning" by Trevor H
 Kindly find documented Jupyter Notebooks in the [examples](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/tree/master/examples) folder:
 ### [examples/Mixture.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Mixture.ipynb)
 
-Classifying the points from a gaussian mixture with linear regression, the nearest-neighbor, a natural cubic spline basis expansion, neural networks, support vector machines and prototypes methods.
+Classifying the points from a gaussian mixture using linear regression, nearest-neighbor, logistic regression with natural cubic splines basis expansion, neural networks, support vector machines and prototypes methods.
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/mixture.png)
 ### [examples/Prostate Cancer.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Prostate%20Cancer.ipynb)
 
