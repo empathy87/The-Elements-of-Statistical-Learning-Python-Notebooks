@@ -5,16 +5,13 @@ Reproducing examples from the "The Elements of Statistical Learning" by Trevor H
 ## Examples
 Kindly find documented Jupyter Notebooks in the [examples](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/tree/master/examples) folder:
 ### [examples/Mixture.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Mixture.ipynb)
-![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/mixture.png)
 
-Classifying points from gaussian mixture with linear regression, nearest-neighbor, natural cubic spline basis expansion, neural networks, support vector machines and prototypes methods.
+Classifying the points from a gaussian mixture with linear regression, the nearest-neighbor, a natural cubic spline basis expansion, neural networks, support vector machines and prototypes methods.
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/mixture.png)
 ### [examples/Prostate Cancer.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Prostate%20Cancer.ipynb)
-Predicting prostate specific antigen with:
-1. Ordinary least squares
-2. Ridge, lasso
-3. Principal components regression
-4. Partial least squares
-5. Best subset regression
+
+Predicting prostate specific antigen using ordinary and ridge/lasso regularized least squares, principal components regression, partial least squares and best subset regression. The parameters are selected by K-folds cross-validation.
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/cancer.png)
 ### [examples/South African Heart Disease.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/South%20African%20Heart%20Disease.ipynb)
 Understanding the risk factors by:
 1. Logistic regression
