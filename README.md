@@ -5,14 +5,9 @@ Reproducing examples from the "The Elements of Statistical Learning" by Trevor H
 ## Examples
 Kindly find documented Jupyter Notebooks in the [examples](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/tree/master/examples) folder:
 ### [examples/Mixture.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Mixture.ipynb)
-Classifying points from gaussian mixture with:
-1. Optimal bayes decision boundary construction
-2. Linear regression
-3. Nearest-neighbor
-4. Logistic regression with natural cubic spline basis expansion
-5. Neural networks
-6. Support vector machines
-7. Prototypes and nearest-neighbors
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/mixture.png)
+
+Classifying points from gaussian mixture with linear regression, nearest-neighbor, natural cubic spline basis expansion, neural networks, support vector machines and prototypes methods.
 ### [examples/Prostate Cancer.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Prostate%20Cancer.ipynb)
 Predicting prostate specific antigen with:
 1. Ordinary least squares
