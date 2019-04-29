@@ -27,13 +27,14 @@ Comparing patterns of bone mineral density relative change for men and women usi
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/bone.png)
 ### [examples/Phoneme Recognition.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Phoneme%20Recognition.ipynb)
-Phonemes speech recognition with:
-1. Logistic regression
-2. Reduced flexibility logistic regression
+Phonemes speech recognition using reduced flexibility logistic regression.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/phoneme.png)
 ### [examples/Galaxy.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Galaxy.ipynb)
-Analysing radial velocity of galaxy NGC7531 with:
-1. Local regression in multidimentional space
+Analysing radial velocity of galaxy NGC7531 using local regression in multidimentional space.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/galaxy.png)
 ### [examples/Ozone.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Ozone.ipynb)
-Analysing the factors influencing ozone concentration with:
-1. Local regression
-2. Trellis plot
+Analysing the factors influencing ozone concentration using local regression and trellis plot.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/ozone.png)
