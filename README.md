@@ -15,14 +15,9 @@ Predicting prostate specific antigen using ordinary least squares, ridge/lasso r
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/cancer.png)
 ### [examples/South African Heart Disease.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/South%20African%20Heart%20Disease.ipynb)
-Understanding the risk factors by:
-1. Logistic regression
-2. L1 regularized logistic regression
-3. Natural cubic splines basis expansion for nonlinearities
-4. Thin-plate spline for mutual dependency
-5. Local logistic regression
-6. Kernel density estimation
-7. Gaussian mixture models
+Understanding the risk factors with logistic regression, L1 regularized logistic regression, natural cubic splines basis expansion for nonlinearities, thin-plate spline for mutual dependency, local logistic regression, kernel density estimation and gaussian mixture models.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/chd.png)
 ### [examples/Vowel.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Vowel.ipynb)
 Vowel speech recognition with:
 1. Linear regression of an indicator matrix
