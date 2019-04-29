@@ -15,17 +15,13 @@ Predicting prostate specific antigen using ordinary least squares, ridge/lasso r
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/cancer.png)
 ### [examples/South African Heart Disease.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/South%20African%20Heart%20Disease.ipynb)
-Understanding the risk factors with logistic regression, L1 regularized logistic regression, natural cubic splines basis expansion for nonlinearities, thin-plate spline for mutual dependency, local logistic regression, kernel density estimation and gaussian mixture models.
+Understanding the risk factors using logistic regression, L1 regularized logistic regression, natural cubic splines basis expansion for nonlinearities, thin-plate spline for mutual dependency, local logistic regression, kernel density estimation and gaussian mixture models.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/chd.png)
 ### [examples/Vowel.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Vowel.ipynb)
-Vowel speech recognition with:
-1. Linear regression of an indicator matrix
-2. Linear discriminant analysis
-3. Quadratic discriminant analysis
-4. Regularized discriminant analysis
-5. Reduced-rank linear discriminant analysis
-6. Logistic regression
+Vowel speech recognition using regression of an indicator matrix, linear/quadratic/regularized/reduced-rank discriminant analysis and logistic regression.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/vowel.png)
 ### [examples/Bone Mineral Density.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Bone%20Mineral%20Density.ipynb)
 Comparing relative change in bone mineral density for males and females with:
 1. Smoothing splines
