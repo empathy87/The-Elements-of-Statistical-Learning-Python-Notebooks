@@ -23,8 +23,9 @@ Vowel speech recognition using regression of an indicator matrix, linear/quadrat
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/vowel.png)
 ### [examples/Bone Mineral Density.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Bone%20Mineral%20Density.ipynb)
-Comparing relative change in bone mineral density for males and females with:
-1. Smoothing splines
+Comparing patterns of bone mineral density relative change for men and women using Smoothing splines.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/bone.png)
 ### [examples/Phoneme Recognition.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Phoneme%20Recognition.ipynb)
 Phonemes speech recognition with:
 1. Logistic regression
