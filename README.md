@@ -1,6 +1,6 @@
 # "The Elements of Statistical Learning" Notebooks
 Reproducing examples from the "The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani and Jerome Friedman with Python and its popular libraries: 
-**numpy**, **math**, **scipy**, **sklearn**, **pandas**, **tensorflow**, **statsmodels**, **sympy**. Almost all plotting is done using **matplotlib**, sometimes using **seaborn**. 
+**numpy**, **math**, **scipy**, **sklearn**, **pandas**, **tensorflow**, **statsmodels**, **sympy**, **catboost**, **pyearth**. Almost all plotting is done using **matplotlib**, sometimes using **seaborn**. 
 
 ## Examples
 The documented Jupyter Notebooks are in the [examples](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/tree/master/examples) folder:
@@ -38,3 +38,7 @@ Analysing radial velocity of galaxy NGC7531 using local regression in multidimen
 Analysing the factors influencing ozone concentration using local regression and trellis plot.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/ozone.png)
+### [examples/Spam.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Spam.ipynb)
+Detecting email spam using logistic regression, generalized additive logistic model, decision tree, multivariate adaptive regression splines, boosting and random forest.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/spam.png)
