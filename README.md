@@ -42,3 +42,6 @@ Analysing the factors influencing ozone concentration using local regression and
 Detecting email spam using logistic regression, generalized additive logistic model, decision tree, multivariate adaptive regression splines, boosting and random forest.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/spam.png)
+### [examples/California Housing.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/California Housing.ipynb)
+Analysing the factors influencing California houses prices using boosting over decision trees and partial dependance plots.
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/california.png)
