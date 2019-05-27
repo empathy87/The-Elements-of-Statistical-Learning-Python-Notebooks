@@ -50,3 +50,8 @@ Analysing the factors influencing California houses prices using boosting over d
 Predicting shopping mall customers occupation, and hence identifying demographic variables that discriminate between different occupational categories using boosting.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/demographics.png)
+
+### [examples/ZIP Code.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/ZIP%20Code.ipynb)
+Recognizing small hand-drawn digits using LeCun's Net-1 - Net-5 neural networks. 
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/zip1.png)
