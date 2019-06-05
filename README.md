@@ -56,7 +56,7 @@ Recognizing small hand-drawn digits using LeCun's Net-1 - Net-5 neural networks.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/zip1.png)
 
-Analysing of the number three variation in ZIP codes using the analysis of the main components.
+Analysing of the number three variation in ZIP codes using principal component analysis.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/zip2.png)
 
