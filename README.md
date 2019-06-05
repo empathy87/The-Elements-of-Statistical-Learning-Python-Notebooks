@@ -55,6 +55,9 @@ Predicting shopping mall customers occupation, and hence identifying demographic
 Recognizing small hand-drawn digits using LeCun's Net-1 - Net-5 neural networks. 
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/zip1.png)
+Analysing of the number three variation in ZIP codes using the analysis of the main components.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/zip2.png)
 
 ### [examples/Human Tumor Microarray Data.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Human%20Tumor%20Microarray%20Data.ipynb)
 Analysing microarray data with K-means clustring and hierarchical clustering. 
