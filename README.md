@@ -61,6 +61,11 @@ Analysing of the number three variation in ZIP codes using principal component a
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/zip2.png)
 
 ### [examples/Human Tumor Microarray Data.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Human%20Tumor%20Microarray%20Data.ipynb)
-Analysing microarray data with K-means clustring and hierarchical clustering. 
+Analysing microarray data using K-means clustring and hierarchical clustering. 
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/tumor.png)
+
+### [examples/Country Dissimilarities.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Country%20Dissimilarities.ipynb)
+Analysing country dissimilarities using K-medoids clustering and multidimensional scaling.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/country.png)
