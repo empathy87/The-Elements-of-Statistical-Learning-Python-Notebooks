@@ -69,3 +69,8 @@ Analysing microarray data using K-means clustring and hierarchical clustering.
 Analysing country dissimilarities using K-medoids clustering and multidimensional scaling.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/country.png)
+
+### [examples/Signature.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Signature.ipynb)
+Analysing signature shapes using Procrustes transformation.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/signature.png)
