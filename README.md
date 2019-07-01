@@ -6,7 +6,7 @@ Reproducing examples from the "The Elements of Statistical Learning" by Trevor H
 The documented Jupyter Notebooks are in the [examples](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/tree/master/examples) folder:
 ### [examples/Mixture.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Mixture.ipynb)
 
-Classifying the points from a mixture of "gaussians" using linear regression, nearest-neighbor, logistic regression with natural cubic splines basis expansion, neural networks, support vector machines, flexible discriminant analysis over MARS regression, mixture discriminant analysis, k-Means clustering and Gaussian mixture model methods.
+Classifying the points from a mixture of "gaussians" using linear regression, nearest-neighbor, logistic regression with natural cubic splines basis expansion, neural networks, support vector machines, flexible discriminant analysis over MARS regression, mixture discriminant analysis, k-Means clustering, Gaussian mixture model and random forests.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/mixture.png)
 ### [examples/Prostate Cancer.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Prostate%20Cancer.ipynb)
@@ -74,3 +74,8 @@ Analysing country dissimilarities using K-medoids clustering and multidimensiona
 Analysing signature shapes using Procrustes transformation.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/signature.png)
+
+### [examples/Waveform.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Waveform.ipynb)
+Recognizing wave classes using linear, quadratic, flexible (over MARS regression), mixture discriminant analysis and decision trees.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/waveform.png)
