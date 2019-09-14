@@ -79,3 +79,8 @@ Analysing signature shapes using Procrustes transformation.
 Recognizing wave classes using linear, quadratic, flexible (over MARS regression), mixture discriminant analysis and decision trees.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/waveform.png)
+
+### [examples/SRBCT Microarray.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/SRBCT%20Microarray.ipynb)
+Analyze microarray data of 2308 genes and select the most significant genes for cancer classification using nearest shrunken centroids. 
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/srbct.png)
