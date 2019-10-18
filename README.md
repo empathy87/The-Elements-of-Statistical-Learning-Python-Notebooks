@@ -25,6 +25,10 @@ Vowel speech recognition using regression of an indicator matrix, linear/quadrat
 ### [examples/Bone Mineral Density.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Bone%20Mineral%20Density.ipynb)
 Comparing patterns of bone mineral density relative change for men and women using smoothing splines.
 
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/ozone_vs_pressure_gradient.png)
+### [examples/Air Pollution Data.ipynb](https://nbviewer.jupyter.org/github/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Air%20Pollution.ipynb)
+Analysing Los Angeles pollution data using smoothing splines.
+
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/bone.png)
 ### [examples/Phoneme Recognition.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Phoneme%20Recognition.ipynb)
 Phonemes speech recognition using reduced flexibility logistic regression.
