@@ -91,3 +91,6 @@ Analysing microarray data of 2308 genes and selecting the most significant genes
 
 ### [examples/14 Cancer Microarray.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/14%20Cancer.ipynb)
 Analysing microarray data of 16,063 genes gathered by Ramaswamy et al. (2001) and selecting the most significant genes for cancer classification using nearest shrunken centroids, L2-penalized discriminant analysis, support vector classifier, k-nearest neighbors, L2-penalized multinominal, L1-penalized multinominal and elastic-net penalized multinominal. It is a difficult classification problem with p>>N (only 144 training observations).
+
+### [examples/Skin of the Orange.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Skin%20of%20the%20Orange.ipynb)
+Solving a synthetic classification problem using Support Vector Machines to understand influence of additional noise features.
