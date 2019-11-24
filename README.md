@@ -94,3 +94,9 @@ Analysing microarray data of 16,063 genes gathered by Ramaswamy et al. (2001) an
 
 ### [examples/Skin of the Orange.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Skin%20of%20the%20Orange.ipynb)
 Solving a synthetic classification problem using Support Vector Machines and multivariate adaptive regression splines to show the influence of additional noise features.
+
+### [examples/Radiation Sensitivity.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Radiation%20Sensitivity.ipynb)
+Assessing the significance of 12,625 genes from microarray study of radiation sensitivity using Benjamini-Hochberg method and the significane analysis of microarrays (SAM) approach.
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/radiation.png)
+
