@@ -84,6 +84,11 @@ Recognizing wave classes using linear, quadratic, flexible (over MARS regression
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/waveform.png)
 
+### [examples/Protein Flow-Cytometry.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Protein%20Flow%20Cytometry.ipynb)
+Analysing protein flow-cytometry data using graphical-lasso undirected graphical model for continuous variables. 
+
+![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/cytometry.png)
+
 ### [examples/SRBCT Microarray.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/SRBCT%20Microarray.ipynb)
 Analysing microarray data of 2308 genes and selecting the most significant genes for cancer classification using nearest shrunken centroids. 
 
