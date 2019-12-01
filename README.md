@@ -26,7 +26,7 @@ Vowel speech recognition using regression of an indicator matrix, linear/quadrat
 Comparing patterns of bone mineral density relative change for men and women using smoothing splines.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/bone.png)
-### [examples/Air Pollution Data.ipynb](https://nbviewer.jupyter.org/github/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Air%20Pollution.ipynb)
+### [examples/Air Pollution Data.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Air%20Pollution.ipynb)
 Analysing Los Angeles pollution data using smoothing splines.
 
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/ozone_vs_pressure_gradient.png)
@@ -48,6 +48,7 @@ Detecting email spam using logistic regression, generalized additive logistic mo
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/spam.png)
 ### [examples/California Housing.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/California%20Housing.ipynb)
 Analysing the factors influencing California houses prices using boosting over decision trees and partial dependance plots.
+
 ![alt](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/images/california.png)
 
 ### [examples/Demographics.ipynb](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/blob/master/examples/Demographics.ipynb)
