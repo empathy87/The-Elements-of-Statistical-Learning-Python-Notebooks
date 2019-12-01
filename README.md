@@ -1,6 +1,6 @@
 # "The Elements of Statistical Learning" Notebooks
 Reproducing examples from the "The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani and Jerome Friedman with Python and its popular libraries: 
-**numpy**, **math**, **scipy**, **sklearn**, **pandas**, **tensorflow**, **statsmodels**, **sympy**, **catboost**, **pyearth**, **mlxtend**. Almost all plotting is done using **matplotlib**, sometimes using **seaborn**. 
+**numpy**, **math**, **scipy**, **sklearn**, **pandas**, **tensorflow**, **statsmodels**, **sympy**, **catboost**, **pyearth**, **mlxtend**, **cvxpy**. Almost all plotting is done using **matplotlib**, sometimes using **seaborn**. 
 
 ## Examples
 The documented Jupyter Notebooks are in the [examples](https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks/tree/master/examples) folder:
